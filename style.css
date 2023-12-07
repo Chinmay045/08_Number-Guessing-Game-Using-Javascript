@@ -31,3 +31,7 @@ button {
     background-color: crimson;
     color: white;
 }
+
+p {
+    font-size: 20px;
+}
