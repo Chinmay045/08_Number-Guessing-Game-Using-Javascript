@@ -7,3 +7,10 @@ body{
     background-color: skyblue;
     font-family: sans-serif;
 }
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 3px 5px 10px rgba(red, green, blue, alpha);
+}
